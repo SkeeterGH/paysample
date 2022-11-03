@@ -14,7 +14,7 @@ curl_setopt($ch, CURLOPT_URL, $url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 curl_setopt(
   $ch, CURLOPT_HTTPHEADER, [
-    'Authorization: Bearer pk_live_4cd44ce4441eb7e65df8656ab39acfbb3fc3e3cd']
+    'Authorization: Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx']
 );
 
 //send request
